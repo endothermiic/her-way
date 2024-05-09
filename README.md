@@ -42,4 +42,4 @@ We also implemented a variation of the **traveling salesman problem (NP-hard)** 
 To generate the most optimal route within a given computation limit (50 s), we used: 
 * Generation of a valid route for all depots using multi-target dijkstra
 * Greedy algorithm (selected 2nd closest node 0-5% of the time) - ran ~10,000 times for each of the starting depots, selected the best 1000 routes
-* 2-opt (randomly swapped 2 edges of any route) - ran up until 8 seconds below run-time (measured using `std::chrono`) to maximize the numebr of swaps performed
+* 2-opt (randomly swapped 2 edges of any route) - ran up until 8 seconds below run-time (measured using `std::chrono`) to maximize the number of swaps performed
