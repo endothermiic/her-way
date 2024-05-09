@@ -30,7 +30,7 @@ HerWay uses 2 main methods for searching: intersection-clicking and an autocompl
 Users can toggle between travel modes using a button. Depending on the transportation mode, HerWay will generate alterative routes with clear directions and approximate travel times. There are 3 modes to select from: 
 -  Car - includes all roads, highways, etc.; shortest route generated based on travel time (using speed limit of roads)
 - Walking - includes only walkable streets, no highways; shortest route generated based on distance 
-- Walking with crisis button toggled - similar to above, but only includes streets tagged as 'well-lit')
+- Walking with crisis button toggled - similar to above, but only includes streets tagged as 'well-lit'
 
 ![mode](media/mode.gif)
 
