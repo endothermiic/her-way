@@ -3,6 +3,8 @@ With more than half of women reporting that they feel unsafe while traveling at 
 
 Note: This map was created for Software Design and Communication (ECE297) at the University of Toronto. As such, all code is in a separate, private repository to avoid plagarism and is available upon request. A copy of the slides used for the final presentation is externally available [here](https://docs.google.com/presentation/d/1rBmUW8rLhqVlzK6LNSPRxFUlWmQcqsgYzBfIrxKKGQI/edit?usp=sharing) or within the repository as a pdf under `team028-pitch.pdf`.
 
+Contributors: [Christina Pizzonia](https://github.com/endothermiic), [Rea Ahuja](https://github.com/reaahuja), [Mai Shizomato](https://github.com/maishimozato)
+
 # Notable features
 The map contains several key GUI features (detailed below) that allow users to quickly and easily navigate throughout a given city. 
 
